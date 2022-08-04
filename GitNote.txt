@@ -1,0 +1,19 @@
+git init
+
+git add .
+
+git remote add origin 'url github'
+
+git remote -v
+
+git commit -m'content to commit ..'
+
+git log
+
+git push origin master --force
+
+git status
+
+How to Change  all file or  Folder and subfolder Attrib windown 10 by Powershell
+
+/*    Attrib -R -H -A /D /S  "*"    */     for codeigniter 04 -- google drive "https://geniushub.io/attrib-command-file-folder-attributes-view-change-hide-examples-cmd/"
